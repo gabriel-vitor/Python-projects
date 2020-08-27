@@ -2,6 +2,9 @@ import sys
 import random
 import time
 
+#Nesse primeiro projeto, o professor da disciplina não perimitiu utilizar funçoes (modularizar o código), porque o assunto ainda não tinha sido dado.
+#Sendo assim, esse projeto ficou muito extenso.
+
 print('='*100)
 print("Olá, bem vindo ao jogo Super Trunfo!")
 
