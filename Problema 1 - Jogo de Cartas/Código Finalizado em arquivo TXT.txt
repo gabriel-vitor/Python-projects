@@ -2,11 +2,11 @@ import sys
 import random
 import time
 
-#Nesse primeiro projeto, o professor da disciplina não perimitiu utilizar funçoes (modularizar o código), porque o assunto ainda não tinha sido dado.
+#Nesse primeiro projeto, o professor da disciplina não permitiu utilizar funçoes (modularizar o código), porque o assunto ainda não tinha sido dado.
 #Sendo assim, esse projeto ficou muito extenso. Como a discplina era introdutória e eu era iniciante, há algumas más práticas como por exemplo, algumas
 #variáveis iniciadas em letra maiuscula.
 
-#In this first project, the teacher of the subject did not perimit to use functions (modularize the code), because the subject had not yet been given.
+#In this first project, the teacher of the subject did not permit to use functions (modularize the code), because the subject had not yet been given.
 #This being so, this project became very extensive. As the discpline was introductory and I was a beginner, there are some bad practices like, for example, some
 #variables started in capital letters.
 
